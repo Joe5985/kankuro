@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.18)  19 JAN 2020 21:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.18)  23 JAN 2020 23:44
 entering extended mode
 **./ReqDoc.tex
 (ReqDoc.tex
@@ -105,8 +105,7 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
-)
-No file ReqDoc.aux.
+) (ReqDoc.aux)
 \openout1 = `ReqDoc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -206,52 +205,97 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Marc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./KakuroTemp
-.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 107--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
-
- []
-
-[2
+.png>] [2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
  []
 
-[3] (ReqDoc.aux)
+<difficulty.png, id=11, 507.39563pt x 91.84312pt>
+File: difficulty.png Graphic file (type png)
+<use difficulty.png>
+Package pdftex.def Info: difficulty.png  used on input line 113.
+(pdftex.def)             Requested size: 380.54579pt x 68.88216pt.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Underfull \hbox (badness 10000) in paragraph at lines 109--116
 
- ) 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--121
+
+ []
+
+[3
+
+ <./difficulty.png>]
+<gameboard.png, id=16, 508.90125pt x 595.47469pt>
+File: gameboard.png Graphic file (type png)
+<use gameboard.png>
+Package pdftex.def Info: gameboard.png  used on input line 122.
+(pdftex.def)             Requested size: 381.675pt x 446.6049pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--128
+
+ []
+
+<utilities.png, id=17, 508.14844pt x 97.11281pt>
+File: utilities.png Graphic file (type png)
+<use utilities.png>
+Package pdftex.def Info: utilities.png  used on input line 129.
+(pdftex.def)             Requested size: 381.11038pt x 72.83441pt.
+[4 <./gameboard.png>] [5 <./utilities.png>] [6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+
+ []
+
+[7
+
+] [8
+
+] [9
+
+] [10
+
+] (ReqDoc.aux) ) 
 Here is how much of TeX's memory you used:
- 3197 strings out of 492484
- 49327 string characters out of 3122054
- 116724 words of memory out of 3000000
- 7532 multiletter control sequences out of 15000+200000
- 7894 words of font info for 28 fonts, out of 3000000 for 9000
+ 3219 strings out of 492484
+ 49700 string characters out of 3122054
+ 118756 words of memory out of 3000000
+ 7548 multiletter control sequences out of 15000+200000
+ 8241 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,42p,298b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Marc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb><C:/Users/Marc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb>
-Output written on ReqDoc.pdf (3 pages, 40835 bytes).
+ 55i,9n,42p,818b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Marc/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb><C:/Users/Marc/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Marc/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on ReqDoc.pdf (10 pages, 79369 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
